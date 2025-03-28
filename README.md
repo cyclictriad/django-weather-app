@@ -27,8 +27,8 @@ Before running the app, ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/cyclictriad/weather_app.git
-   cd weather_app
+   git clone https://github.com/cyclictriad/django-weather-app.git
+   cd django-weather-app
    ```
 
 2. **Set up a virtual environment**:
